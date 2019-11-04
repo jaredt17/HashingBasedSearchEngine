@@ -1,4 +1,4 @@
-README File for CS3310 - HW3 by Jared Teller and Joseph Manto
+README File for Hashing Based Search Engine by Jared Teller
 _______________________________________________
 Compile this code using Java version 1.8 sdk
 Run in Java eclipse oxygen June 2018 environment
